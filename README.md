@@ -1,5 +1,5 @@
 # ES-Game-Lasca
-## Grupo de desenvolvimento do jogo Lasca da Disciplina de Engenharia de Software - UFSC
+## Desenvolvimento realizado em grupo do jogo Lasca da Disciplina de Engenharia de Software - UFSC
 
 ### Para executar:
 	Biblioteca tkinter instalada
