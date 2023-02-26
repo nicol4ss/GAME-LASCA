@@ -1,4 +1,4 @@
-# ES-Game-Lasca
+# Engenharia de Software - Game Lasca em Python + Planejamento de projeto
 ## Desenvolvimento realizado em grupo do jogo Lasca da Disciplina de Engenharia de Software - UFSC
 
 ## Creditos
